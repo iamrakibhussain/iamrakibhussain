@@ -233,10 +233,10 @@ I use AI coding agents as **engineering assistants across the entire lifecycle**
 
 <!-- ⚠️ Replace YOUR_GITHUB_USERNAME with your real GitHub username in all 3 links below -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrakibhussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrakibhussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=iamrakibhussain&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
 </div>
 
